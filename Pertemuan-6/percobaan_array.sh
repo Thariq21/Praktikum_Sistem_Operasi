@@ -1,0 +1,12 @@
+NAMES=""
+NAMES="${NAMES} Thariq"
+NAMES="${NAMES} Alfi"
+NAMES="${NAMES} Aditya"
+
+echo 'One at a time...'
+for NAME in ${NAMES}; do
+    echo ${NAME};
+done
+
+echo 'All together now!'
+echo ${NAMES}
