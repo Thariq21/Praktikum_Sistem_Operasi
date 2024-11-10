@@ -1,3 +1,4 @@
+#!/bin/bash
 FRUITS=""
 FRUITS="${FRUITS} PEPAYA"
 FRUITS="${FRUITS} MANGGA"
