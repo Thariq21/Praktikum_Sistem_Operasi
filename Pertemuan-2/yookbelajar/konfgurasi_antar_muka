@@ -1,0 +1,8 @@
+hostname="os.tifubakrie.ac.id"
+ifconfig_em0="DHCP"
+sshd_enable="YES"
+ntpd_sync_on_start="YES"
+moused_nondefault_enable="NO"
+# Set dumpdev to "AUTO" to enable crash dumps, "NO" to disable
+dumpdev="AUTO"
+zfs_enable="YES"
