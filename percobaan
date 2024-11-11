@@ -1,4 +1,0 @@
-#!/bin/sh
-echo "Halo $LOGNAME, senang bertemu dengan Anda"
-echo "Direktori Anda saat ini adalah $PWD."
-
