@@ -1,3 +1,4 @@
+#!/bin/sh
 echo ``Sebutkan tiga nama panggilan teman-teman Anda xxxx yyyy zzzz``
 read panggilan1 panggilan2 panggilan3
 echo ``Nama panggilan teman pertama adalah : $panggilan1``

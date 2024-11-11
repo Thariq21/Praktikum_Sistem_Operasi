@@ -1,3 +1,4 @@
+#!/bin/sh
 NAMES=""
 NAMES="${NAMES} Thariq"
 NAMES="${NAMES} Alfi"
