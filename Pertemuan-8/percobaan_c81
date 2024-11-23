@@ -22,6 +22,6 @@ echo percobaan_a81stat=$percobaan_a81stat
 # descriptors that they don’t need then a more correct command line
 # closes the descriptors before running the commands
 exec 3>&1
-percobaan_a81stat=`((./percobaan_a81 3>&- 4>&- ; echo $? >&4) | \ grep 'foo' 1>&3 3>&- 4>&- ) 4>&1`
+percobaan_a81stat=`((./percobaan_a81 3>&- 4>&- ; echo $? >&4) | \grep 'foo' 1>&3 3>&- 4>&- ) 4>&1`
 echo Last command status=$?
 echo percobaan_a81=$percobaan_a81
