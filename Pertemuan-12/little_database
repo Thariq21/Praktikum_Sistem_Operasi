@@ -1,0 +1,40 @@
+name: gery
+address: 192.168.1.11
+aliases: raffa raffa raffa
+owner: Muhammad Raffa Febrian
+department: software
+building: main
+room: 909
+manufacturer: Sun
+model: Ultra60
+-=-
+name: bendir
+address: 192.168.1.3
+aliases: steve wozniak
+owner: Steve Jobs
+department: IT
+building: west
+room: 143
+manufacturer: Apple
+model: 7500/100
+-=-
+ame: sulawesi
+address: 192.168.1.12
+aliases: sula su-lee
+owner: Ellen Monk
+department: design
+building: main
+room: 1116
+manufacturer: Apple
+model: 7500/100
+-=-
+name: sander
+address: 192.168.1.55
+aliases: sandy micky mickydoo
+owner: Alex Rollins
+department: IT
+building: main
+room: 1101
+manufacturer: Intergraph
+model: TD-325
+-=-
