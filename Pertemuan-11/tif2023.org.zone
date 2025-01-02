@@ -1,10 +1,10 @@
 $TTL 3600
-@ IN SOA ns1.tif2023.org root.tif2023.org. (
+tif2023.org. IN SOA ns1.tif2023.org root.tif2023.org. (
 		20201129 ; serial
 	21600 ; refresh
 	3600 ; retry
 	604800 ; expire
 	86400 ) ; minimum ttl
 ;
-@ IN NS ns1.tif2023.org.
-ns1 IN A 192.168.208.129 
+tif2023.org. IN NS ns1.tif2023.org.
+ns1.tif2023.org. IN A 192.168.208.129 
